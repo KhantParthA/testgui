@@ -2,7 +2,7 @@ import React from "react"
 import { connect } from "react-redux"
 import './css/app.css'
 
-const Count = props => {
+const Count = prop => {
   return (
     <div>
       <div id="block1">
